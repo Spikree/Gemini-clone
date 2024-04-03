@@ -20,19 +20,19 @@ function Main() {
                     <p>How can I help you today</p>
                 </div>
                 <div className="cards">
-                    <div className="card card-1">
+                    <div className="card card-1" onClick={() => onSent("Suggest beautiful places to see on an upcoming road trip")}>
                         <p>Suggest beautiful places to see on an upcoming road trip</p>
                         <img src={assets.compass_icon} alt="" />
                     </div>
-                    <div className="card card-2">
+                    <div className="card card-2" onClick={() => onSent("Briefly summarize this concept: urban planning")}>
                         <p>Briefly summarize this concept: urban planning</p>
                         <img src={assets.bulb_icon} alt="" />
                     </div>
-                    <div className="card card-3">
+                    <div className="card card-3" onClick={() => onSent("Brainstrom team bonding activities for our work retreat")}>
                         <p>Brainstrom team bonding activities for our work retreat</p>
                         <img src={assets.message_icon} alt="" />
                     </div>
-                    <div className="card card-4">
+                    <div className="card card-4" onClick={() => onSent("Improve the readibility of the following code")}>
                         <p>Improve the readibility of the following code</p>
                         <img src={assets.code_icon} alt="" />
                     </div>
