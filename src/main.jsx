@@ -9,5 +9,3 @@ ReactDOM.createRoot(document.getElementById('root')).render(
     <App />
   </ContextProvider>,
 )
-
-//1:40:22
