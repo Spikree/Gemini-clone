@@ -119,6 +119,10 @@
     font-weight: 300;
 }
 
+.main .bottom-info a {
+    color: #585858;
+}
+
 .result{
     padding: 0px 5%;
     max-height: 70vh;

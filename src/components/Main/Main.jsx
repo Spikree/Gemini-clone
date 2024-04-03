@@ -67,7 +67,7 @@ function Main() {
                         </div>
                     </div>
                     <p className="bottom-info">
-                    Gemini may display inaccurate info, including about people, so double-check its responses. Your privacy & Gemini Apps
+                    Gemini may display inaccurate info, including about people, so double-check its responses. <a href="https://support.google.com/gemini/answer/13594961?visit_id=638477507158502890-1103742168&p=privacy_notice&rd=1#privacy_notice"> Your privacy & Gemini Apps</a>
                     </p>
                 </div>
             </div>
